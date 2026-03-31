@@ -18,13 +18,13 @@
 
 **Transição de carreira:** 7+ anos como **Professor de Informática & Tecnologia** → **Desenvolvedor Backend Java**
 
-Minha trajetória na educação me proporcionou habilidades raras em desenvolvimento:
+Minha trajetória na educação me proporcionou habilidades que vão além do código:
 - 🎯 **Didática aplicada:** Documentação clara e código legível
-- 🧩 **Resolução de problemas:** 7 anos debugando dúvidas de alunos
-- 📚 **Aprendizado contínuo:** Evolução constante para ensinar melhor
+- 🧩 **Resolução de problemas:** Anos ajudando alunos a superar desafios técnicos
+- 📚 **Aprendizado contínuo:** Evolução constante para ensinar e aprender melhor
 - 🤝 **Comunicação técnica:** Traduzir complexidade em simplicidade
 
-> *"Ensinar programação me ensinou mais sobre programação do que qualquer curso."*
+Durante minha experiência como professor, trabalhei principalmente com informática básica, ferramentas de produtividade e, em períodos específicos, introduzi conceitos de lógica de programação, HTML e CSS. Essa vivência me ensinou a importância da clareza, paciência e adaptação no ensino — habilidades que hoje aplico na construção de soluções bem documentadas e na colaboração com equipes.
 
 ---
 
@@ -45,12 +45,12 @@ Minha trajetória na educação me proporcionou habilidades raras em desenvolvim
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Frontend (Experiência Prévia)
+### Experiência Prévia & Estudos
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
@@ -66,8 +66,7 @@ BFF-AGENDADOR (8086) ← Orquestração & JWT
 ├── CADASTRAUSUARIO (8083) → PostgreSQL
 ├── AGENDADOR-TAREFAS (8081) → MongoDB
 └── NOTIFICACAO (8085) → E-mail/Thymeleaf
-plain
-Copy
+
 
 ### ✨ Funcionalidades
 - ✅ **Autenticação JWT** stateless entre serviços
@@ -76,6 +75,7 @@ Copy
 - ✅ **Multi-banco:** PostgreSQL + MongoDB
 - ✅ **Containerização** completa com Docker Compose
 - ✅ **Documentação** automática com Swagger/OpenAPI
+- ✅ **CI/CD com GitHub Actions:** pipelines configurados nos microsserviços (Maven e Gradle) com build automático em pull requests
 
 ### 🔄 Fluxo de Uso
 1. Cadastro de usuários com consulta de CEP externo
@@ -86,7 +86,6 @@ Copy
 ### 📋 Próximas Evoluções (Em Desenvolvimento)
 - [ ] **Testes unitários** (JUnit 5 + Mockito)
 - [ ] **Frontend** em React para consumir a API
-- [ ] **CI/CD** pipeline com GitHub Actions
 - [ ] **Observabilidade** com logs e métricas
 
 🔗 **[Ver Repositório](https://github.com/JhonathanDominick/bff-agendador-tarefas)** | 🐳 **[Ver no Docker Hub]** *(opcional)*
@@ -109,7 +108,7 @@ Copy
 
 | Período | Função | Conexão com Dev |
 |---------|--------|-----------------|
-| **2018 - Atual** | Professor de Informática | Ensino de lógica, HTML, CSS; debugging didático |
+| **2018 - Atual** | Professor de Informática | Ensino de informática básica, Excel, Word, PowerPoint; períodos com lógica de programação, HTML e CSS |
 | **2016** | Técnico em Web Designer | Fundamentos de desenvolvimento web |
 | **2018** | Designer Gráfico | UX/UI, atenção a detalhes visuais |
 | **Set/2025** | Desenvolvedor PHP/Laravel | *Projeto cancelado - experiência de transição* |
