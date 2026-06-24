@@ -24,11 +24,16 @@ Sistema full stack com foco principal no backend. A solução reúne autenticaç
 - Docker, Gradle, Git e GitHub Actions
 - Next.js e TypeScript como apoio full stack
 
-## Além do código
+## Como trabalho
 
-Tenho mais de sete anos de experiência como educador de informática e tecnologia. Essa trajetória fortaleceu habilidades que aplico no desenvolvimento: comunicação clara, documentação objetiva, escuta, didática e capacidade de decompor problemas complexos.
+- Priorizo código simples, legível e testável.
+- Valorizo documentação objetiva e decisões técnicas bem justificadas.
+- Tenho atenção especial a segurança, validação de dados e separação de responsabilidades.
+- Busco evoluir com consistência, revisando o que entrego e mantendo o projeto fácil de executar.
 
-Busco oportunidades como **Desenvolvedor Backend Java Júnior**, contribuindo com base técnica sólida, curiosidade e responsabilidade sobre a qualidade do que entrego.
+## Objetivo profissional
+
+Busco oportunidades como **Desenvolvedor Backend Java Júnior**, contribuindo com APIs, regras de negócio, testes automatizados, banco de dados e integração entre serviços.
 
 ## Contato
 
