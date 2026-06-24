@@ -12,15 +12,9 @@ Atualmente desenvolvo o **RockerPilates**, um sistema real de gestão para estú
 
 Sistema full stack com foco principal no backend. A solução reúne autenticação separada para administradores e alunos, gestão de assinaturas e pagamentos, migrações com Flyway, resiliência entre serviços e execução local com Docker Compose.
 
-**Backend:** Java 21, Spring Boot, Spring Security, PostgreSQL, Flyway, JWT, Resilience4j, Gradle, JUnit e Testcontainers.
+**Backend:** Java 21, Spring Boot, Spring Security, PostgreSQL, Flyway, JWT, Resilience4j, Gradle, JUnit 5, Mockito, Testcontainers e JaCoCo.
 
 **Frontend:** Next.js, TypeScript e Tailwind CSS.
-
-## Outro case selecionado
-
-### [Sistema de agendamento](https://github.com/JhonathanDominick/bff-agendador-tarefas)
-
-Case de arquitetura distribuída com BFF, autenticação JWT e integração entre serviços de usuários, tarefas e notificações.
 
 ## Stack principal
 
